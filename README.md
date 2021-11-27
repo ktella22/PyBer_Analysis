@@ -1,6 +1,6 @@
 # PyBer_Analysis
 ## Overview of the analysis
-This project helps to understand how to convert csv files to DataFrame and use the data from DataFrame to create visualization using Matplotlib. The purpose of this Module challenge is to create a ride-sharing data by city type to filter the number of rides and fares based on the date of the month.  
+This project helps to understand how to convert csv files to DataFrame and use the data from DataFrame to create visualization using Matplotlib. The purpose of this Module challenge is to create a ride-sharing data by city type to filter the number of rides and fares based on the date of the month so that company can make better decision to improve changes to meet the goal profits based on the performance of each city type in ride-sharing experience.     
 
 ## Results
 According to pyber summary DataFrame, there are difference in fares, total drivers availabe and number of rides based on different city type. In Urban area, the city is poupulated that the total number of rides are the highest amoung the other city type which directly affects the total drivers, total fares and the average of fare and drivers per individual ride. However, the average fares per ride and per drivers increases as the city becomes further away from the urban city area and total number of drivers and rides decreases in remote areas. It explained that the lower number of drivers leads to higher costs of fares for each rides in rural and suburban areas.  
